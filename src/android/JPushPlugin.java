@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.content.Context;
 import android.util.Log;
 
-import __PACKAGE_NAME__.R;
+import com.hsjq.oa.R;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaInterface;
