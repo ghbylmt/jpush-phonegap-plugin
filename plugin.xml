@@ -10,7 +10,7 @@
     <keywords>JPush,push</keywords>
     <license>Apache 2.0 License</license>
 
-    <preference name="837ab2d92bc214d2e6c9d011" />
+    <preference name="API_KEY" />
 
     <engines>
         <engine name="cordova" version=">=3.0"/>
